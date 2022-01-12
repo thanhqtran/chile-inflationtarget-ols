@@ -7,7 +7,7 @@ The Impact of Chile’s Inflation Targeting Policy on Economic Growth (1991 - 20
 
 ### Synopsis
 
-**Original title:** Nguyen, T. Hong., Nguyen, H. Cong., Tran, Q. Thanh., *Tác động của chính sách lạm phát mục tiêu đến tăng trưởng kinh tế Chile và bài học kinh nghiệm cho Việt Nam*, Tạp chí Kinh tế Đối ngoại, No.114/2019, p. 83 - 103
+**Original title:** [Nguyen, T. Hong., Nguyen, H. Cong., Tran, Q. Thanh., *Tác động của chính sách lạm phát mục tiêu đến tăng trưởng kinh tế Chile và bài học kinh nghiệm cho Việt Nam*, Tạp chí Kinh tế Đối ngoại, No.114/2019, p. 83 - 103](http://tracuutapchi.ftu.edu.vn/index.php/tcqlktqt/article/view/602)
 
 **English title:** Nguyen, T. Hong., Nguyen, H. Cong., Tran, Q. Thanh., *The Impact of Chile’s Inflation Targeting Policy on Economic Growth and Lessons for Vietnam*, External Economics Review, No. 114/2019, p. 83-103
 
