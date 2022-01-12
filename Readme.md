@@ -42,7 +42,7 @@ in which:
 **Time periods**: 1980q1 to 2017q4
 
 **Dataset**:
-[link](https://raw.githubusercontent.com/thanhqtran/code-tranqt19-chile-inflation/a1522186c7a02427a655148b282222443775e4d7/chile_data.csv) (discontinued)
+[link](https://raw.githubusercontent.com/thanhqtran/chile-inflationtarget-ols/main/chile_data.csv) (discontinued)
 
 ### Regression Results
 
@@ -50,7 +50,7 @@ in which:
 
 ``` {.r}
 library(curl)
-df <- read.csv( curl("https://raw.githubusercontent.com/thanhqtran/code-tranqt19-chile-inflation/a1522186c7a02427a655148b282222443775e4d7/chile_data.csv"), header=TRUE, stringsAsFactors=FALSE)
+df <- read.csv( curl("https://raw.githubusercontent.com/thanhqtran/chile-inflationtarget-ols/main/chile_data.csv"), header=TRUE, stringsAsFactors=FALSE)
 df$lngdp <- log(df$gdp)
 ```
 
