@@ -426,7 +426,7 @@ stargazer(model1, model2, type = "text")
 
 -   Notably, the model with log-linearized real interest rates produces higher statistical significance.
 
--   With the coefficient of 0.198, this means that thanks to the existence of the inflation targeting policy, output in Chile has been <img src="https://render.githubusercontent.com/render/math?math=e^{0.198} = 1.22> times higher than that if there were no such policy.
+-   With the coefficient of 0.198, this means that thanks to the existence of the inflation targeting policy, output in Chile has been <img src="https://render.githubusercontent.com/render/math?math=exp(0.198)> =1.22 times as high as in the case of no policy.
 
 ### Reference:
 
