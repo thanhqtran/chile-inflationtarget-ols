@@ -1,6 +1,6 @@
 ## ------------------------------------------------------------------------------------------------
 library(curl)
-df <- read.csv( curl("https://raw.githubusercontent.com/thanhqtran/research/main/201811_Chile_InflationTargeting/data_copy.csv"), header=TRUE, stringsAsFactors=FALSE)
+df <- read.csv( curl("https://raw.githubusercontent.com/thanhqtran/code-tranqt19-chile-inflation/a1522186c7a02427a655148b282222443775e4d7/chile_data.csv"), header=TRUE, stringsAsFactors=FALSE)
 df$lngdp <- log(df$gdp)
 
 
