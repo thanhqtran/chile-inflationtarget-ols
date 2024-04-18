@@ -1,7 +1,7 @@
 The Impact of Chile’s Inflation Targeting Policy on Economic Growth (1991 - 2017)
 =================================================================================
 
-#### Tran Quang-Thanh
+#### Quang-Thanh Tran
 
 #### 2/9/2021
 
